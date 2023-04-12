@@ -1,0 +1,21 @@
+{
+  "name": "traversing-universe-dark",
+  "displayName": "traversing universe dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "traversing universe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/traversing universe-color-theme.json"
+      }
+    ]
+  }
+}
